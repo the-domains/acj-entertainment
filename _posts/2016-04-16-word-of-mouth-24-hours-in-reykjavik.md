@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-01T20:00:40.597Z'
+datePublished: '2016-07-01T21:02:37.893Z'
 sourcePath: _posts/2016-04-16-word-of-mouth-24-hours-in-reykjavik.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/travel/word-of-mouth-24-hours-reykjavik'
@@ -17,7 +17,7 @@ keywords:
   - fishing
 related: []
 author: []
-dateModified: '2016-07-01T20:00:40.302Z'
+dateModified: '2016-07-01T21:02:37.574Z'
 title: 'Word of Mouth: 24 Hours in Reykjavik'
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ description: >-
   not just because of its location in the middle of the Atlantic.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
