@@ -12,3 +12,5 @@ color:
     - '#FCFAE1'
     - '#BD8D46'
 name: ACJ Entertainment
+content_rating:
+  adult: true
